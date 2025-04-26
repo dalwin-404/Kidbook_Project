@@ -9,6 +9,9 @@ Kidbook is a safe and fun platform designed for kids to learn, connect, and play
 - **Make New Friends**: Connect with other kids in a monitored and secure space.
 - **Responsive Design**: Optimized for all devices, including desktops, tablets, and mobile phones.
 
+## Image
+
+<img src="assets/Screenshot 2025-04-26 030217.png">
 ## How It Works
 
 1. **Create Your Profile**: Sign up and set up your profile to start connecting with friends.
