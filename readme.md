@@ -41,7 +41,7 @@ Kidbook_Project/ ├── index.html # Main HTML file ├── style.css # Sty
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out via the contact form on the website or email us at `ayanboyewinner@gmail.com.com`.
+If you have any questions or feedback, feel free to reach out via the contact form on the website or email us at `ayanboyewinner@gmail.com`.
 
 ---
 
